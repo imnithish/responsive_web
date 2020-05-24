@@ -1,1 +1,1 @@
-Design and Codes for creating a responsive web app using Flutter.
+Designs and Codes for creating a responsive web app using Flutter.
